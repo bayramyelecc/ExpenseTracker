@@ -14,6 +14,6 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/48b05373-e7cc-4091-a59b-e81289535dfd" />
-  <img src="https://github.com/user-attachments/assets/c6fb8994-9caf-458e-ac5b-61e3fb9392be" />
+  <img src="https://github.com/user-attachments/assets/48b05373-e7cc-4091-a59b-e81289535dfd" width="300" />
+  <img src="https://github.com/user-attachments/assets/c6fb8994-9caf-458e-ac5b-61e3fb9392be" width="300" />
 </div>

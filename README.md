@@ -1,4 +1,4 @@
-# Expense Tracker
+<h1 style="text-align: center;">Expense Tracker</h1>
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets/dddb0139-8a93-4a3a-84a6-c33195d204ab" width="300" />
